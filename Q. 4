@@ -1,0 +1,7 @@
+Compiled vs Interpreted Languages:
+
+Compiled languages translate the entire code into machine language at once before execution. This is typically done by a compiler (e.g., C, C++). They tend to be faster in execution but less flexible during development.
+
+Interpreted languages execute code line-by-line using an interpreter (e.g., Python, JavaScript). They are slower but allow for easier debugging and quicker testing during development.
+
+Python is an interpreted language because it executes instructions line by line using the Python interpreter.
